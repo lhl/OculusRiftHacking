@@ -8,8 +8,10 @@ There haven't been any updates to the main repo so forking to keep abreast of re
 
 # Docs
 
-* Links and info/history are tracked on the project wiki: https://github.com/lhl/OculusRiftHacking/wiki
-* See the changelog for new developments: https://github.com/lhl/OculusRiftHacking/commits/master
+* Links and info/history are tracked on the project wiki
+  * https://github.com/lhl/OculusRiftHacking/wiki
+* See the changelog for new developments
+  * https://github.com/lhl/OculusRiftHacking/commits/master
 
 # Projects
 
